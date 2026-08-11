@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.0",
+  "versao": "1.2.0",
   "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-Setup.exe",
-  "notas": "Apuração mensal por empresa (ISS, retenções, bruto e líquido) com cartões que filtram as notas e exportação em HTML; aviso de certificado vencendo; acompanhamento do cancelamento em análise até o desfecho; ícone na bandeja e abertura junto com o Windows."
+  "notas": "A apuração agora exporta XLSX direto do relatório em HTML, respeitando o filtro que estiver na tela; os arquivos saem nomeados por empresa (NOME DA EMPRESA - EMITIDAS/RECEBIDAS e, na apuração, NOME DA EMPRESA - MM_AAAA - RECEBIDAS); a janela de salvar abre em Downloads na primeira vez e, depois, sempre na última pasta usada."
 }
