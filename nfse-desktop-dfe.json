@@ -1,5 +1,5 @@
 {
- "versao": "2.0.2",
+ "versao": "2.0.3",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Empresa cadastrada com o programa aberto passa a aparecer na hora no filtro das telas de NF-e e CT-e - antes so aparecia depois de fechar e abrir; nota emitida por uma filial contra outra do mesmo grupo deixa de ser tratada como emissao propria: a comparacao passa a usar o CNPJ inteiro, e nao a raiz, entao ela volta a receber Ciencia e a liberar o XML completo; a Ciencia automatica passa a respeitar o prazo de 10 dias da SEFAZ e nao tenta mais manifestar nota antiga, que so voltaria recusada"
+ "notas": "A varredura de uma empresa nao para mais quando a SEFAZ reentrega um documento que ja estava no indice - antes a excecao abortava a busca daquele CNPJ, o NSU ficava parado no ultimo lote e a busca seguinte repetia a mesma consulta, o que a propria SEFAZ trata como consumo indevido; a espera por consumo indevido deixa de abrir a caixa Certificados com problema: o certificado esta bom e nada falhou, entao o aviso agora aparece na barra de status e a caixa fica so para falha de verdade"
 }
