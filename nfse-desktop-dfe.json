@@ -1,5 +1,5 @@
 {
- "versao": "2.1.3",
+ "versao": "2.1.4",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Corrige a janela que ficava aberta depois de fechar o modal de cancelamentos em analise: o cartao de aviso era um widget sem pai, ou seja, uma janela solta, e a tabela era movida do painel para o modal e devolvida no fim. Agora o modal monta a propria tabela sobre o mesmo modelo e nada e' movido entre janelas"
+ "notas": "Quando uma nota e cancelada, o programa passa a salvar tambem o XML do evento de cancelamento, na pasta CANCELADAS ao lado da nota e com o sufixo -evento no nome; vale para NFS-e, NF-e e CT-e, e so para cancelamento confirmado — ciencia, confirmacao e pedido ainda pendente nao viram arquivo; A opcao fica em Configuracoes e tambem em Editar empresa, onde a escolha de cada empresa vence a geral; Corrigido um defeito que podia FAZER PERDER o XML da nota: evento e nota carregam a mesma chave de acesso e, com o nome de arquivo padrao, geravam o mesmo nome — num lote que trouxesse a nota e o cancelamento juntos, o evento era gravado por cima da nota e sobrava um arquivo so; A busca de XML pela chave passa a preferir a nota: quem pede o documento para escriturar nao recebe mais o evento no lugar dele"
 }
