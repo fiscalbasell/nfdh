@@ -1,5 +1,5 @@
 {
- "versao": "2.1.10",
+ "versao": "2.1.11",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "FILTRO DE EMPRESAS DAS NFS-e: o quadradinho passou a marcar. Clicar nele marcava e o proprio programa desmarcava ao soltar o botao, e so o clique no nome funcionava; MAIS DE UMA EMPRESA SO COM CTRL: clique simples (no nome ou no quadradinho) deixa so aquela empresa e fecha a lista, como num select comum. Ctrl+clique marca ou desmarca aquela e mantem as outras, com a lista aberta para a proxima. 'Todas' desmarca tudo. Escolher digitando segue a mesma regra, e a dica do filtro avisa do Ctrl"
+ "notas": "RELATORIO DAS EMPRESAS: em Configuracoes > Certificados digitais, o botao 'Relatorio das empresas' gera um Excel com todas as empresas cadastradas, uma linha por empresa (matriz e cada filial); Para cada uma: qual certificado usa (o proprio ou o da matriz), o titular, o vencimento, quantos dias faltam e a situacao — Valido, Vence em N dias (ate 30), Vencido, Arquivo .pfx nao encontrado ou Sem certificado cadastrado; Tambem o resultado da ultima sincronizacao (OK, Falha com o motivo, Em espera da SEFAZ ou Nunca sincronizou) e quantos documentos ha no indice; Entram as empresas que tem notas no indice mas nao estao mais no cadastro: sao as que pararam de sincronizar; Resumo no topo, vencidos e sem certificado em vermelho, vencendo em amarelo, filtro no cabecalho"
 }
