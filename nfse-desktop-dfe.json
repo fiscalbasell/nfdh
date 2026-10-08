@@ -1,5 +1,5 @@
 {
- "versao": "2.1.15",
+ "versao": "2.1.16",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "TELAS MODERNIZADAS E RELATORIO DE APURACAO NOVO. NFS-e Emitidas com filtros, indicadores e acoes por linha; Configuracoes em abas, com a arvore de empresas mostrando tipo, status e validade do certificado; Editar empresa em abas; Importar certificados em lote: varios .pfx de uma vez, senha individual, senha comum ou lista de senhas conhecidas, conferindo a empresa de cada um antes de importar; Relatorio de apuracao em HTML refeito: resumo com retencoes por tributo, painel de conferencia, filtros por retencao e por conferencia, total oficial que nao muda com filtro, pontos de atencao, Excel formatado, CSV e impressao em A4; O aviso de atualizacao nao aparece mais depois de atualizar"
+ "notas": "VISUALIZACAO DA NFS-e REFEITA. A nota abre ocupando quase toda a janela, com o DANFSe em destaque; Os dados fiscais ficam numa barra lateral que recolhe e reabre (botao no topo ou Ctrl+B), e o DANFSe ganha a largura toda; Zoom de aumentar, diminuir, ajustar a largura e pagina inteira; O painel de classificacao tributaria e EFD-Reinf (R-4020) pode ser recolhido para ampliar o documento; Aba XML com botao Copiar XML; a conferencia das retencoes continua na aba Retencoes; O programa lembra, durante a sessao, como voce deixou a barra e o painel"
 }
