@@ -1,5 +1,5 @@
 {
- "versao": "2.1.16",
+ "versao": "2.1.17",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "VISUALIZACAO DA NFS-e REFEITA. A nota abre ocupando quase toda a janela, com o DANFSe em destaque; Os dados fiscais ficam numa barra lateral que recolhe e reabre (botao no topo ou Ctrl+B), e o DANFSe ganha a largura toda; Zoom de aumentar, diminuir, ajustar a largura e pagina inteira; O painel de classificacao tributaria e EFD-Reinf (R-4020) pode ser recolhido para ampliar o documento; Aba XML com botao Copiar XML; a conferencia das retencoes continua na aba Retencoes; O programa lembra, durante a sessao, como voce deixou a barra e o painel"
+ "notas": "NOVA IDENTIDADE FISCALBASE E NF-e/CT-e COM A MESMA TELA DA NFS-e. Cores, logo e icone novos (navy e roxo FiscalBase), nos temas claro e escuro; NF-e e CT-e recebidos ganharam o mesmo layout da NFS-e: filtros em cartao (empresa com selecao multipla, etiqueta, situacao e periodo), indicadores, tabela com acoes por linha (ver, XML, DANFE/DACTE, lancada) e 'Mais acoes' em janela estreita; Ao abrir uma NF-e ou CT-e, o mesmo visualizador da NFS-e: dados numa barra lateral que recolhe (Ctrl+B), DANFE/DACTE com zoom, aba XML com Copiar e documentos relacionados; As telas deixam claro que NF-e e CT-e sao apenas os recebidos"
 }
