@@ -1,5 +1,5 @@
 {
- "versao": "2.1.18",
+ "versao": "2.1.19",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "PLANILHA DE NFS-e COM IBS E CBS. A planilha ganhou as colunas da Reforma Tributaria: CST IBS/CBS, cClassTrib, base de calculo, aliquota efetiva de IBS (estado + municipio) e de CBS e os valores de IBS e CBS, lidos do XML da nota; Nota cancelada sai com IBS e CBS zerados e a linha de TOTAIS soma base, IBS e CBS; Nota anterior a Reforma deixa as aliquotas em branco"
+ "notas": "BACKUP FORA DA PASTA DE DADOS. Os backups automaticos passam a ficar em Documentos\\FiscalBase\\backups (as 3 copias mais recentes) e a pasta pode ser trocada em Configuracoes > Avancado > Trocar pasta; as copias antigas sao levadas para la ao abrir; A tela de backup mostra a pasta e lembra de conferir e guardar uma copia fora do computador; Termos de uso 2.1: novo aceite, com o dever de conferir o backup, inclusive antes de instalar ou atualizar; O instalador mostra o aviso de backup e o desinstalador passou a perguntar pela pasta certa dos dados; Em Editar empresa > Sincronizacao, novo botao para rebaixar as NFS-e de UMA empresa (zerar NSU so dela), sem reler todas; e zerar o NSU com a sincronizacao em andamento deixou de ser desfeito por ela"
 }
