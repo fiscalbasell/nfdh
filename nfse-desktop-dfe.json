@@ -1,5 +1,5 @@
 {
- "versao": "2.1.17",
+ "versao": "2.1.18",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "NOVA IDENTIDADE FISCALBASE E NF-e/CT-e COM A MESMA TELA DA NFS-e. Cores, logo e icone novos (navy e roxo FiscalBase), nos temas claro e escuro; NF-e e CT-e recebidos ganharam o mesmo layout da NFS-e: filtros em cartao (empresa com selecao multipla, etiqueta, situacao e periodo), indicadores, tabela com acoes por linha (ver, XML, DANFE/DACTE, lancada) e 'Mais acoes' em janela estreita; Ao abrir uma NF-e ou CT-e, o mesmo visualizador da NFS-e: dados numa barra lateral que recolhe (Ctrl+B), DANFE/DACTE com zoom, aba XML com Copiar e documentos relacionados; As telas deixam claro que NF-e e CT-e sao apenas os recebidos"
+ "notas": "PLANILHA DE NFS-e COM IBS E CBS. A planilha ganhou as colunas da Reforma Tributaria: CST IBS/CBS, cClassTrib, base de calculo, aliquota efetiva de IBS (estado + municipio) e de CBS e os valores de IBS e CBS, lidos do XML da nota; Nota cancelada sai com IBS e CBS zerados e a linha de TOTAIS soma base, IBS e CBS; Nota anterior a Reforma deixa as aliquotas em branco"
 }
