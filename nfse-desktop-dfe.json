@@ -1,5 +1,5 @@
 {
- "versao": "2.1.19",
+ "versao": "2.1.20",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "BACKUP FORA DA PASTA DE DADOS. Os backups automaticos passam a ficar em Documentos\\FiscalBase\\backups (as 3 copias mais recentes) e a pasta pode ser trocada em Configuracoes > Avancado > Trocar pasta; as copias antigas sao levadas para la ao abrir; A tela de backup mostra a pasta e lembra de conferir e guardar uma copia fora do computador; Termos de uso 2.1: novo aceite, com o dever de conferir o backup, inclusive antes de instalar ou atualizar; O instalador mostra o aviso de backup e o desinstalador passou a perguntar pela pasta certa dos dados; Em Editar empresa > Sincronizacao, novo botao para rebaixar as NFS-e de UMA empresa (zerar NSU so dela), sem reler todas; e zerar o NSU com a sincronizacao em andamento deixou de ser desfeito por ela"
+ "notas": "REBAIXAR AS NFS-e DE UMA EMPRESA SO. Em Editar empresa > Sincronizacao, novo botao para zerar o NSU so daquela empresa, sem reler todas; Zerar o NSU com a sincronizacao em andamento deixou de ser desfeito por ela; Backups automaticos em Documentos\\FiscalBase\\backups (3 copias, pasta trocavel em Configuracoes > Avancado > Trocar pasta); Termos de uso 2.1 com o dever de conferir o backup, aviso de backup no instalador e desinstalador perguntando pela pasta certa; O programa aparece direto na lista do menu Iniciar, sem ficar escondido numa pasta"
 }
