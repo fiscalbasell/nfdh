@@ -1,5 +1,5 @@
 {
- "versao": "2.1.22",
+ "versao": "2.1.23",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "EMPRESA POR PROCURACAO NA NFS-e. Em Configuracoes > Empresas, novo item 'Adicionar empresa por procuracao': CNPJ de outra raiz ou CPF que deu procuracao ao titular do certificado no Portal de Servicos da Receita Federal tem as NFS-e baixadas com esse certificado (so NFS-e; NF-e e CT-e nao aceitam procuracao); Na conta corporativa vale para CNPJ cuja raiz o administrador atribuiu ao usuario; Recusas do Portal Nacional mostram o motivo na sincronizacao, como 'sem procuracao', em vez de 'rede: 400'"
+ "notas": "IMPORTAR E EXPORTAR PROCURACOES. Em Configuracoes > Empresas, os itens 'Importar procuracoes' e 'Exportar procuracoes' levam e trazem, em Excel ou CSV (CNPJ/CPF e nome), as empresas por procuracao de um certificado: cadastre a carteira inteira de uma vez ou passe para outro computador; Na importacao, o que ja estava cadastrado nao duplica e o que nao entra aparece com o motivo; CERTIFICADO FIXO: o app guarda uma copia do .pfx na pasta dele e passa a usar essa copia - mover, renomear ou apagar o arquivo original nao interrompe mais a sincronizacao. Os certificados ja cadastrados sao copiados na primeira abertura"
 }
