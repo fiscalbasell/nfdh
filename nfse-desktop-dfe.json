@@ -1,5 +1,5 @@
 {
- "versao": "2.1.23",
+ "versao": "2.1.24",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "IMPORTAR E EXPORTAR PROCURACOES. Em Configuracoes > Empresas, os itens 'Importar procuracoes' e 'Exportar procuracoes' levam e trazem, em Excel ou CSV (CNPJ/CPF e nome), as empresas por procuracao de um certificado: cadastre a carteira inteira de uma vez ou passe para outro computador; Na importacao, o que ja estava cadastrado nao duplica e o que nao entra aparece com o motivo; CERTIFICADO FIXO: o app guarda uma copia do .pfx na pasta dele e passa a usar essa copia - mover, renomear ou apagar o arquivo original nao interrompe mais a sincronizacao. Os certificados ja cadastrados sao copiados na primeira abertura"
+ "notas": "EXCLUIR CERTIFICADOS EM LOTE. Em Configuracoes > Empresas, selecione varios (Ctrl/Shift+clique ou Ctrl+A, inclusive com o filtro de status, ex. Vencido) e use 'Excluir selecionados' ou a tecla Delete; DANFSE MAIS COMPACTO: campos de valores agrupados, NBS na linha do codigo de tributacao e o destaque mostra o Total das Retencoes (ISSQN / Federais) - notas com IBS/CBS voltam a caber em uma pagina; o campo Total das Retencoes Federais agora soma IRRF, CP e PIS/COFINS/CSLL retidos"
 }
