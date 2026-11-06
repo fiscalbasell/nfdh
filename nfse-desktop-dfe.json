@@ -1,5 +1,5 @@
 {
- "versao": "2.1.24",
+ "versao": "2.1.25",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "EXCLUIR CERTIFICADOS EM LOTE. Em Configuracoes > Empresas, selecione varios (Ctrl/Shift+clique ou Ctrl+A, inclusive com o filtro de status, ex. Vencido) e use 'Excluir selecionados' ou a tecla Delete; DANFSE MAIS COMPACTO: campos de valores agrupados, NBS na linha do codigo de tributacao e o destaque mostra o Total das Retencoes (ISSQN / Federais) - notas com IBS/CBS voltam a caber em uma pagina; o campo Total das Retencoes Federais agora soma IRRF, CP e PIS/COFINS/CSLL retidos"
+ "notas": "APURACAO NFS-E MAIS RAPIDA. A tela abre na ultima empresa (ou grupo matriz + filiais) escolhida, em vez de apurar todas; a competencia ja vem no mes anterior e nao muda mais ao trocar a empresa, Emitidas/Recebidas ou Somar por - cada filtro fica como voce deixou"
 }
