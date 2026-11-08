@@ -1,5 +1,5 @@
 {
- "versao": "2.1.26",
+ "versao": "2.1.27",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "NOTA SEM XML. O programa passa a achar o XML de notas que foram baixadas de novo em outra pasta (comum depois de trocar os certificados pelo do escritorio com procuracao) e de arquivos com o nome padrao. Quando o XML realmente sumiu, a nota diz o motivo e como baixar de novo (Zerar NSU da empresa e sincronizar), sem ficar consultando o portal a cada abertura - o que deixava a tela lenta"
+ "notas": "Apuracao por competencia: entram tambem as notas emitidas meses depois da competencia (antes so as emitidas ate 1 mes depois); Aviso quando a apuracao muda depois de a competencia fechar: corte automatico no dia 15 do mes seguinte, avisado na apuracao, no relatorio e no painel; Botao Fechar competencia: guarda os numeros declarados e mostra o que mudou depois; Interface revisada: filtros alinhados, listas dos campos sem a borda preta, mais espaco para tomador e emitente, painel que rola em telas menores e apuracao que cabe em notebook; O primeiro relatorio de cada mes depois da atualizacao pode demorar um pouco mais"
 }
