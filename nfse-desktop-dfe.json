@@ -1,5 +1,5 @@
 {
- "versao": "2.1.27",
+ "versao": "2.1.28",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Apuracao por competencia: entram tambem as notas emitidas meses depois da competencia (antes so as emitidas ate 1 mes depois); Aviso quando a apuracao muda depois de a competencia fechar: corte automatico no dia 15 do mes seguinte, avisado na apuracao, no relatorio e no painel; Botao Fechar competencia: guarda os numeros declarados e mostra o que mudou depois; Interface revisada: filtros alinhados, listas dos campos sem a borda preta, mais espaco para tomador e emitente, painel que rola em telas menores e apuracao que cabe em notebook; O primeiro relatorio de cada mes depois da atualizacao pode demorar um pouco mais"
+ "notas": "Notas em dobro na apuracao: quando uma empresa que ja tinha XML passava a ser baixada por procuracao (ou mudava de pasta), a mesma nota podia entrar duas vezes e a apuracao somava as duas; corrigido; Ao abrir, o programa junta sozinho as notas que ficaram repetidas, mantendo etiqueta e marcacao de lancada; Os relatorios ja gerados com valor em dobro precisam ser gerados de novo"
 }
