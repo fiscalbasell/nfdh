@@ -1,5 +1,5 @@
 {
- "versao": "2.1.28",
+ "versao": "2.1.29",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Notas em dobro na apuracao: quando uma empresa que ja tinha XML passava a ser baixada por procuracao (ou mudava de pasta), a mesma nota podia entrar duas vezes e a apuracao somava as duas; corrigido; Ao abrir, o programa junta sozinho as notas que ficaram repetidas, mantendo etiqueta e marcacao de lancada; Os relatorios ja gerados com valor em dobro precisam ser gerados de novo"
+ "notas": "Some a mensagem 'Security validation failure' que aparecia ao abrir o programa depois de instalar uma atualizacao; Listas de empresas em ordem alfabetica, com busca ao digitar, em todas as telas; Calendario das datas com setas de mes anterior e seguinte e com o nome dos dias inteiro; Menu do icone ao lado do relogio mais legivel, e sem a borda preta em volta do item selecionado nas listas; Mantem a correcao da 2.1.28: notas em dobro na apuracao depois de passar empresas para procuracao"
 }
