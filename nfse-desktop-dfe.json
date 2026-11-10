@@ -1,5 +1,6 @@
 {
- "versao": "2.1.29",
+ "versao": "2.1.30",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Some a mensagem 'Security validation failure' que aparecia ao abrir o programa depois de instalar uma atualizacao; Listas de empresas em ordem alfabetica, com busca ao digitar, em todas as telas; Calendario das datas com setas de mes anterior e seguinte e com o nome dos dias inteiro; Menu do icone ao lado do relogio mais legivel, e sem a borda preta em volta do item selecionado nas listas; Mantem a correcao da 2.1.28: notas em dobro na apuracao depois de passar empresas para procuracao"
+ "notas": "Atualizacao baixada pelo proprio programa, com barra de progresso; ele confere o arquivo e pergunta antes de instalar; Primeiros passos no Painel para quem esta comecando: certificado, sincronizar e ver as notas; Listas vazias explicam o motivo e mostram o botao que resolve; Mensagens de erro em portugues claro, com o que fazer; 'Notas sem direcao' passa a se chamar 'Notas sem empresa identificada'; Apuracao mostra 'Calculando' enquanto soma, e o botao virou 'Exportar relatorio'",
+ "sha256": "F3A2798216D4C1430B49E607E7EDC5089F9B939385D0464A2F9711FD6F985996"
 }
