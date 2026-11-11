@@ -1,6 +1,6 @@
 {
- "versao": "2.1.30",
+ "versao": "2.1.31",
  "url": "https://github.com/fiscalbasell/nfdh/raw/refs/heads/main/NFSe-Desktop-DFe-Setup.exe",
- "notas": "Atualizacao baixada pelo proprio programa, com barra de progresso; ele confere o arquivo e pergunta antes de instalar; Primeiros passos no Painel para quem esta comecando: certificado, sincronizar e ver as notas; Listas vazias explicam o motivo e mostram o botao que resolve; Mensagens de erro em portugues claro, com o que fazer; 'Notas sem direcao' passa a se chamar 'Notas sem empresa identificada'; Apuracao mostra 'Calculando' enquanto soma, e o botao virou 'Exportar relatorio'",
- "sha256": "F3A2798216D4C1430B49E607E7EDC5089F9B939385D0464A2F9711FD6F985996"
+ "notas": "Entrega mensal automatica: no dia escolhido, o mes anterior de cada empresa vai para uma pasta local ou de rede; Voce marca o que gerar: XML, PDF, planilha e relatorio de apuracao de NFS-e, e XML e PDF de NF-e e CT-e; Uma pasta por empresa ou tudo numa pasta so; Se o computador estiver desligado no dia, a entrega sai quando o programa abrir; O Painel avisa se a pasta estiver fora do ar ou se o mes mudar depois da entrega, com o botao Gerar de novo; Restaurar backup em Configuracoes > Avancado, com confirmacao antes; o indice atual fica guardado e a restauracao pode ser desfeita",
+ "sha256": "A5F0A831004302B715684CD1F57E98F1380AB99BB963598D0B4E46606A55BF20"
 }
